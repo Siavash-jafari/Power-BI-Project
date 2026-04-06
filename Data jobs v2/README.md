@@ -25,7 +25,6 @@ This project demonstrates several core Power BI skills:
 - Interactive reporting:
   - slicers to filter by job title and other attributes
   - buttons and bookmarks for navigation
-  - drill-through for deeper analysis
 
 ---
 
