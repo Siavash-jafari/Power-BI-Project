@@ -23,7 +23,7 @@ This project demonstrates an end-to-end data analytics workflow, including data 
 
 ### Data Jobs Dashboard
 File:  
-`Data jobs v1\Data_Jobs_Dashboard.pbix`
+[`Data_Jobs_Dashboard.pbix`](Data%20jobs%20v1/Data_Jobs_Dashboard.pbix)
 
 Features:
 - Interactive filtering and slicers  
@@ -34,7 +34,7 @@ Features:
 
 ### Data Jobs Dashboard 2.0
 File:  
-`Data jobs v2\Data_Jobs_Dashboard_2.0.pbix`
+[`Data_Jobs_Dashboard_2.0.pbix`](Data%20jobs%20v2/Data_Jobs_Dashboard_2.0.pbix)
 
 Improvements:
 - Optimized data model (star schema)  

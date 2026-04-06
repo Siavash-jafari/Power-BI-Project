@@ -32,13 +32,13 @@ This report is split into two pages to provide both a high-level summary and a m
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](images/Page1.PNG)  
+![Data Jobs Dashboard Page 1](images/Page1.PNG) 
 
 This page provides an overview of the market, including total job count, median salaries, and the most common job titles.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](images/Page2.PNG)  
+![Data Jobs Dashboard Page 2](images\Page2.PNG)  
 
 This page allows for more detailed analysis. Users can drill through from the main dashboard to explore a specific job title, including salary ranges, remote work information, top hiring platforms, and job locations.
 
