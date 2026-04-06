@@ -35,7 +35,7 @@ This version (2.0) is designed as a single-page dashboard to provide the most im
 
 ### Main Dashboard View
 
-![Data Jobs Dashboard v2.0](../images/Project2_page1.png)
+![Data Jobs Dashboard v2.0](../images/Project2_page1.PNG)
 
 This page provides a concise overview of the data job market, including:
 
