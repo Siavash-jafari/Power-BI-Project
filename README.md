@@ -106,8 +106,4 @@ Files used:
 3. Update data source paths if needed  
 4. Explore the dashboard using filters and interactions  
 
----
 
-## Notes
-
-Some large files are not included due to GitHub size limits.
